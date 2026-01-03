@@ -1,2 +1,0 @@
-olá mundo
-testando git diff
